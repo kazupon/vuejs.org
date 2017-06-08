@@ -1,0 +1,72 @@
+index:
+  title: Vue.js
+  tagline: The Progressive <br>JavaScript Framework
+  started: GET STARTED
+  github: GITHUB
+  approachable:
+    title: Approachable
+    message: Already know HTML, CSS and JavaScript? Read the guide and start building things in no time!
+  versatile:
+    title: Versatile
+    message: Simple, minimal core with an incrementally adoptable stack that can handle apps of any scale.
+  performant:
+    title: Performant
+    message: 19kb min+gzip Runtime<br> Blazing Fast Virtual DOM<br> Minimal Optimization Efforts
+  sponsors: PROUDLY SPONSORED BY
+  backer: Become a Backer
+  released: 'Released under the '
+  license: MIT License
+
+sidebar:
+  sponsor: Platinum Sponsor
+  backer: Become a Sponsor
+  guide: Guide
+  api: API
+  examples: Examples
+
+toc:
+  essentials: Essentials
+  advanced: Advanced
+  migrating: Migrating
+  meta: Meta
+
+main_menu:
+  guide: Guide
+  api: API
+  examples: Examples
+  shop: Shop
+
+ecosystems:
+  title: Ecosystem
+  help: Help
+  forum: Forum
+  chat: Chat
+  templates: Templates
+  news: News
+  twitter: Twitter
+  blog: Blog
+  jobs: Jobs
+  plugins: Core Plugins
+  router: Vue Router
+  state: Vuex
+  resources: Resource Lists
+  repos: Official Repos
+  awesome: Awesome Vue
+
+languages:
+  title: Translations
+  cn: 中文
+  ja: 日本語
+  ru: Русский
+  kr: 한국어
+  br: Português
+  fr: Français
+
+ad:
+  vueconf: The first VueConf EU is being held in Wrocław, Poland, June 21-23!
+
+page:
+  example: ' Example'
+  contribution: Caught a mistake or want to contribute to the documentation?
+  github: Edit this page on Github!
+
